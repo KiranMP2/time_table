@@ -23,7 +23,7 @@ Add your timetable using `<td>` tag.
 Execute the program using runserver command.
 
 # PROGRAM
-'''python
+```python
 <html>
 <head>
 <title>Slot Timetable</title>
@@ -122,7 +122,8 @@ Execute the program using runserver command.
 </html>
 ```
 # OUTPUT
-![alt text](<Screenshot 2025-03-31 112936.png>)
+![Screenshot 2025-03-31 112936](https://github.com/user-attachments/assets/bde13833-727f-452b-8371-efc78ebabce7)
+
 
 # RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
